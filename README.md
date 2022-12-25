@@ -28,5 +28,6 @@ Now you can run the `main`. your camera would be open along with a blackboard on
 ### An illustration
 
 
-![Alt Text](report_n_slides/setting_histogram)
-![Alt Text](report_n_slides/emotion_ASL_combiner)
+![Alt Text](report_n_slides/setting_histogram.png)
+![Alt Text](report_n_slides/emotion_ASL_combiner.png)
+
